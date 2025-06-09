@@ -1,0 +1,1072 @@
+{
+    "video_id": "reel_000004",
+    "overall_vibes": [
+        "a video showcasing Streetcore fashion",
+        "a video with a Boho chic atmosphere",
+        "a video with a Clean Girl style"
+    ],
+    "frames_data": [
+        {
+            "frame_path": "frames/reel_000004/frame_00000.jpg",
+            "frame_number": 0,
+            "top_matches": [
+                {
+                    "type": "bottoms",
+                    "color": "Unknown",
+                    "match_type": "no_match",
+                    "matched_product_id": 16841,
+                    "confidence": 0.4809,
+                    "catalog_crop_bbox": [
+                        274.5168151855469,
+                        1478.9681396484375,
+                        925.5181274414062,
+                        2159.635498046875
+                    ]
+                },
+                {
+                    "type": "bottoms",
+                    "color": "Unknown",
+                    "match_type": "no_match",
+                    "matched_product_id": 16841,
+                    "confidence": 0.4792,
+                    "catalog_crop_bbox": [
+                        274.5168151855469,
+                        1478.9681396484375,
+                        925.5181274414062,
+                        2159.635498046875
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00001.jpg",
+            "frame_number": 1,
+            "top_matches": [
+                {
+                    "type": "bottoms",
+                    "color": "GREY",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17144,
+                    "confidence": 0.6147,
+                    "catalog_crop_bbox": [
+                        131.2295684814453,
+                        41.86128234863281,
+                        355.77197265625,
+                        622.4893188476562
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00002.jpg",
+            "frame_number": 2,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15759,
+                    "confidence": 0.6093,
+                    "catalog_crop_bbox": [
+                        155.3800506591797,
+                        206.98838806152344,
+                        357.2940673828125,
+                        697.1319580078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00003.jpg",
+            "frame_number": 3,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15759,
+                    "confidence": 0.6111,
+                    "catalog_crop_bbox": [
+                        155.3800506591797,
+                        206.98838806152344,
+                        357.2940673828125,
+                        697.1319580078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00004.jpg",
+            "frame_number": 4,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Olive",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17292,
+                    "confidence": 0.6556816101074219,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00005.jpg",
+            "frame_number": 5,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15137,
+                    "confidence": 0.5797,
+                    "catalog_crop_bbox": [
+                        167.72413635253906,
+                        119.61573791503906,
+                        378.59771728515625,
+                        486.6247863769531
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00006.jpg",
+            "frame_number": 6,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5831,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                },
+                {
+                    "type": "accessories",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15813,
+                    "confidence": 0.5213,
+                    "catalog_crop_bbox": [
+                        203.3112030029297,
+                        122.97224426269531,
+                        311.906005859375,
+                        162.49607849121094
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00007.jpg",
+            "frame_number": 7,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.6118,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                },
+                {
+                    "type": "accessories",
+                    "color": "Unknown",
+                    "match_type": "no_match",
+                    "matched_product_id": 15822,
+                    "confidence": 0.4741,
+                    "catalog_crop_bbox": [
+                        570.8619384765625,
+                        468.44842529296875,
+                        976.8275756835938,
+                        587.1724243164062
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00008.jpg",
+            "frame_number": 8,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.6189,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00009.jpg",
+            "frame_number": 9,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.603,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00010.jpg",
+            "frame_number": 10,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5666,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00011.jpg",
+            "frame_number": 11,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.6736,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00012.jpg",
+            "frame_number": 12,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.6443,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00013.jpg",
+            "frame_number": 13,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5993,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00014.jpg",
+            "frame_number": 14,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Blue",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17315,
+                    "confidence": 0.602,
+                    "catalog_crop_bbox": [
+                        94.32242584228516,
+                        87.7187271118164,
+                        481.1533508300781,
+                        768.0
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00015.jpg",
+            "frame_number": 15,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Ecru White",
+                    "match_type": "exact_match",
+                    "matched_product_id": 16791,
+                    "confidence": 0.7018464207649231,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00016.jpg",
+            "frame_number": 16,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5922,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00017.jpg",
+            "frame_number": 17,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.6047,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00018.jpg",
+            "frame_number": 18,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15759,
+                    "confidence": 0.6167,
+                    "catalog_crop_bbox": [
+                        155.3800506591797,
+                        206.98838806152344,
+                        357.2940673828125,
+                        697.1319580078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00019.jpg",
+            "frame_number": 19,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.6888,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00020.jpg",
+            "frame_number": 20,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15157,
+                    "confidence": 0.592,
+                    "catalog_crop_bbox": [
+                        98.15288543701172,
+                        152.75096130371094,
+                        358.4374694824219,
+                        638.607421875
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00021.jpg",
+            "frame_number": 21,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17247,
+                    "confidence": 0.659,
+                    "catalog_crop_bbox": [
+                        112.15957641601562,
+                        196.32107543945312,
+                        512.0,
+                        745.5928955078125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00022.jpg",
+            "frame_number": 22,
+            "top_matches": [
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17129,
+                    "confidence": 0.5332,
+                    "catalog_crop_bbox": [
+                        525.4494018554688,
+                        1810.1383056640625,
+                        649.6128540039062,
+                        2096.658203125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00023.jpg",
+            "frame_number": 23,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Unknown",
+                    "match_type": "exact_match",
+                    "matched_product_id": 16757,
+                    "confidence": 0.6403343677520752,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00024.jpg",
+            "frame_number": 24,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Tan",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15032,
+                    "confidence": 0.621,
+                    "catalog_crop_bbox": [
+                        104.919677734375,
+                        623.0352783203125,
+                        1317.15185546875,
+                        2097.226318359375
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00025.jpg",
+            "frame_number": 25,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5706,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00026.jpg",
+            "frame_number": 26,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Blue",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15380,
+                    "confidence": 0.5647,
+                    "catalog_crop_bbox": [
+                        316.8181457519531,
+                        346.78662109375,
+                        1112.44580078125,
+                        1644.31884765625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00027.jpg",
+            "frame_number": 27,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Tan",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15032,
+                    "confidence": 0.6093,
+                    "catalog_crop_bbox": [
+                        104.919677734375,
+                        623.0352783203125,
+                        1317.15185546875,
+                        2097.226318359375
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00028.jpg",
+            "frame_number": 28,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5843,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00029.jpg",
+            "frame_number": 29,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15759,
+                    "confidence": 0.611,
+                    "catalog_crop_bbox": [
+                        155.3800506591797,
+                        206.98838806152344,
+                        357.2940673828125,
+                        697.1319580078125
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 16619,
+                    "confidence": 0.578,
+                    "catalog_crop_bbox": [
+                        107.95137023925781,
+                        639.0405883789062,
+                        237.9382781982422,
+                        701.49072265625
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17100,
+                    "confidence": 0.5697,
+                    "catalog_crop_bbox": [
+                        238.52267456054688,
+                        661.241455078125,
+                        264.6125793457031,
+                        719.722900390625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00030.jpg",
+            "frame_number": 30,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15220,
+                    "confidence": 0.5952,
+                    "catalog_crop_bbox": [
+                        150.6504669189453,
+                        169.57601928710938,
+                        376.459716796875,
+                        698.3369140625
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17093,
+                    "confidence": 0.5664,
+                    "catalog_crop_bbox": [
+                        685.5362548828125,
+                        1786.346923828125,
+                        788.5122680664062,
+                        1995.77734375
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15531,
+                    "confidence": 0.5515,
+                    "catalog_crop_bbox": [
+                        757.34228515625,
+                        1872.461669921875,
+                        871.086669921875,
+                        2116.666259765625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00031.jpg",
+            "frame_number": 31,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Pink",
+                    "match_type": "exact_match",
+                    "matched_product_id": 42077,
+                    "confidence": 0.6288,
+                    "catalog_crop_bbox": [
+                        132.3095245361328,
+                        107.6878433227539,
+                        348.1368408203125,
+                        580.5614624023438
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 16619,
+                    "confidence": 0.5665,
+                    "catalog_crop_bbox": [
+                        107.95137023925781,
+                        639.0405883789062,
+                        237.9382781982422,
+                        701.49072265625
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 16561,
+                    "confidence": 0.5611,
+                    "catalog_crop_bbox": [
+                        544.4938354492188,
+                        1836.90185546875,
+                        687.877685546875,
+                        1964.826416015625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00032.jpg",
+            "frame_number": 32,
+            "top_matches": [
+                {
+                    "type": "bottoms",
+                    "color": "Pink",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15492,
+                    "confidence": 0.6014,
+                    "catalog_crop_bbox": [
+                        204.51966857910156,
+                        253.34239196777344,
+                        350.9031982421875,
+                        680.5081787109375
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00033.jpg",
+            "frame_number": 33,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 16311,
+                    "confidence": 0.5639,
+                    "catalog_crop_bbox": [
+                        487.5538024902344,
+                        418.23773193359375,
+                        893.4142456054688,
+                        1683.1343994140625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00034.jpg",
+            "frame_number": 34,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15220,
+                    "confidence": 0.5637,
+                    "catalog_crop_bbox": [
+                        150.6504669189453,
+                        169.57601928710938,
+                        376.459716796875,
+                        698.3369140625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00035.jpg",
+            "frame_number": 35,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15759,
+                    "confidence": 0.6002,
+                    "catalog_crop_bbox": [
+                        155.3800506591797,
+                        206.98838806152344,
+                        357.2940673828125,
+                        697.1319580078125
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17093,
+                    "confidence": 0.5772,
+                    "catalog_crop_bbox": [
+                        685.5362548828125,
+                        1786.346923828125,
+                        788.5122680664062,
+                        1995.77734375
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00036.jpg",
+            "frame_number": 36,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15759,
+                    "confidence": 0.5982,
+                    "catalog_crop_bbox": [
+                        155.3800506591797,
+                        206.98838806152344,
+                        357.2940673828125,
+                        697.1319580078125
+                    ]
+                },
+                {
+                    "type": "shoe",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17067,
+                    "confidence": 0.5716,
+                    "catalog_crop_bbox": [
+                        679.1771240234375,
+                        1729.9769287109375,
+                        826.9747314453125,
+                        2020.570556640625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00037.jpg",
+            "frame_number": 37,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15137,
+                    "confidence": 0.685436487197876,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00038.jpg",
+            "frame_number": 38,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 16407,
+                    "confidence": 0.6197808980941772,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00039.jpg",
+            "frame_number": 39,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Unknown",
+                    "match_type": "exact_match",
+                    "matched_product_id": 16716,
+                    "confidence": 0.6949342489242554,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00040.jpg",
+            "frame_number": 40,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "White",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.731671929359436,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00041.jpg",
+            "frame_number": 41,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Black",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15171,
+                    "confidence": 0.602624237537384,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00042.jpg",
+            "frame_number": 42,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5645,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00043.jpg",
+            "frame_number": 43,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Tan",
+                    "match_type": "exact_match",
+                    "matched_product_id": 15032,
+                    "confidence": 0.6345,
+                    "catalog_crop_bbox": [
+                        104.919677734375,
+                        623.0352783203125,
+                        1317.15185546875,
+                        2097.226318359375
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00044.jpg",
+            "frame_number": 44,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.5616,
+                    "catalog_crop_bbox": [
+                        61.2130012512207,
+                        232.8912811279297,
+                        511.6516418457031,
+                        722.7706298828125
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00045.jpg",
+            "frame_number": 45,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "White",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15220,
+                    "confidence": 0.5996,
+                    "catalog_crop_bbox": [
+                        150.6504669189453,
+                        169.57601928710938,
+                        376.459716796875,
+                        698.3369140625
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00046.jpg",
+            "frame_number": 46,
+            "top_matches": [
+                {
+                    "type": "dress",
+                    "color": "Pink",
+                    "match_type": "exact_match",
+                    "matched_product_id": 42077,
+                    "confidence": 0.625,
+                    "catalog_crop_bbox": [
+                        132.3095245361328,
+                        107.6878433227539,
+                        348.1368408203125,
+                        580.5614624023438
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00047.jpg",
+            "frame_number": 47,
+            "top_matches": [
+                {
+                    "type": "accessories",
+                    "color": "Unknown",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17325,
+                    "confidence": 0.5094,
+                    "catalog_crop_bbox": [
+                        12.630845069885254,
+                        563.2474365234375,
+                        51.43348693847656,
+                        589.0147094726562
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00048.jpg",
+            "frame_number": 48,
+            "top_matches": [
+                {
+                    "type": "accessories",
+                    "color": "Unknown",
+                    "match_type": "no_match",
+                    "matched_product_id": 17325,
+                    "confidence": 0.4846,
+                    "catalog_crop_bbox": [
+                        12.630845069885254,
+                        563.2474365234375,
+                        51.43348693847656,
+                        589.0147094726562
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00049.jpg",
+            "frame_number": 49,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "White",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.7029125094413757,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000004/frame_00050.jpg",
+            "frame_number": 50,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "White",
+                    "match_type": "exact_match",
+                    "matched_product_id": 17332,
+                    "confidence": 0.6719565391540527,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        }
+    ]
+}

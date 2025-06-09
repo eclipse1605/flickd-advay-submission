@@ -1,0 +1,276 @@
+{
+    "video_id": "reel_000001",
+    "overall_vibes": [
+        "Cottagecore",
+        "Streetcore",
+        "Clean Girl"
+    ],
+    "frames_data": [
+        {
+            "frame_path": "frames/reel_000001/frame_00000.jpg",
+            "frame_number": 0,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Blue",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17256,
+                    "confidence": 0.5386952757835388,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00001.jpg",
+            "frame_number": 1,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Blue",
+                    "match_type": "no_match",
+                    "matched_product_id": 17256,
+                    "confidence": 0.44369053840637207,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00002.jpg",
+            "frame_number": 2,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Unknown",
+                    "match_type": "no_match",
+                    "matched_product_id": 16986,
+                    "confidence": 0.44258904457092285,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00003.jpg",
+            "frame_number": 3,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Blue",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17256,
+                    "confidence": 0.5410665273666382,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00004.jpg",
+            "frame_number": 4,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Yellow",
+                    "match_type": "no_match",
+                    "matched_product_id": 42076,
+                    "confidence": 0.4549071788787842,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00005.jpg",
+            "frame_number": 5,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Yellow",
+                    "match_type": "no_match",
+                    "matched_product_id": 42076,
+                    "confidence": 0.45418888330459595,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00006.jpg",
+            "frame_number": 6,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Blue",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17256,
+                    "confidence": 0.5385660529136658,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00007.jpg",
+            "frame_number": 7,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "no_match",
+                    "matched_product_id": 15301,
+                    "confidence": 0.49469196796417236,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00008.jpg",
+            "frame_number": 8,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15301,
+                    "confidence": 0.5009470582008362,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00009.jpg",
+            "frame_number": 9,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Blue",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17256,
+                    "confidence": 0.5421664714813232,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00010.jpg",
+            "frame_number": 10,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "no_match",
+                    "matched_product_id": 15324,
+                    "confidence": 0.4876798391342163,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00011.jpg",
+            "frame_number": 11,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15324,
+                    "confidence": 0.5010808706283569,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00012.jpg",
+            "frame_number": 12,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Blue",
+                    "match_type": "similar_match",
+                    "matched_product_id": 17256,
+                    "confidence": 0.5468825101852417,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00013.jpg",
+            "frame_number": 13,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Brown",
+                    "match_type": "no_match",
+                    "matched_product_id": 15413,
+                    "confidence": 0.4917151927947998,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00014.jpg",
+            "frame_number": 14,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Brown",
+                    "match_type": "no_match",
+                    "matched_product_id": 15413,
+                    "confidence": 0.49127399921417236,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00015.jpg",
+            "frame_number": 15,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Brown",
+                    "match_type": "no_match",
+                    "matched_product_id": 15413,
+                    "confidence": 0.49561265110969543,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00016.jpg",
+            "frame_number": 16,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15324,
+                    "confidence": 0.5041995048522949,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00017.jpg",
+            "frame_number": 17,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15324,
+                    "confidence": 0.5060672760009766,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        },
+        {
+            "frame_path": "frames/reel_000001/frame_00018.jpg",
+            "frame_number": 18,
+            "top_matches": [
+                {
+                    "type": "full_frame",
+                    "color": "Red",
+                    "match_type": "similar_match",
+                    "matched_product_id": 15324,
+                    "confidence": 0.5044175982475281,
+                    "catalog_crop_bbox": null
+                }
+            ]
+        }
+    ]
+}
