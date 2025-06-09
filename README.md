@@ -188,10 +188,10 @@ python3 visualize_match.py 5 0 --top_n 4 --output_dir outputs/visualized_matches
 ### Examples:
 
 **Frame 0 of Reel 000005:**
-![Product Matches for Reel 000005 - Frame 0](outputs/visualized_matches/reel_000005/product_matches_reel_000005_frame_00000.png)
+![Product Matches for Reel 000005 - Frame 0](examples/product_matches_reel_000005_frame_00000.png)
 
 **Frame 7 of Reel 000005:**
-![Product Matches for Reel 000005 - Frame 7](outputs/visualized_matches/reel_000005/product_matches_reel_000005_frame_00007.png)
+![Product Matches for Reel 000005 - Frame 7](examples/product_matches_reel_000005_frame_00007.png)
 
 ## Models Used
 
