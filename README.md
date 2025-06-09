@@ -49,6 +49,7 @@ You can run the pipeline for a specific video ID (e.g., `reel_000005`) or for al
 
 1.  **Preprocess the Catalog:**
     This step processes your `catalog.csv`, generates image embeddings, and creates FAISS indexes and metadata files required for product matching. This **must be run first** and whenever your catalog or model configurations in `preprocess_catalog.py` change.
+    
     ```bash
     python3 preprocess_catalog.py
     ```
